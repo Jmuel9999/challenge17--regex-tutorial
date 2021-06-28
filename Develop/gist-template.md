@@ -1,4 +1,4 @@
-# Title (replace with your title)
+# Tutorial: How to Use an Email Regex!
 
 Introductory paragraph (replace this with your text)
 
